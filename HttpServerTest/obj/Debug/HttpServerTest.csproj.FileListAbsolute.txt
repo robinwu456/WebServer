@@ -1,0 +1,7 @@
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.csprojAssemblyReference.cache
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\bin\Debug\HttpServerTest.exe.config
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\bin\Debug\HttpServerTest.exe
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\bin\Debug\HttpServerTest.pdb
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.exe
+C:\Users\Robin-PC\source\repos\HttpServerTest\HttpServerTest\obj\Debug\HttpServerTest.pdb
